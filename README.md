@@ -1,2 +1,2 @@
 # Min_batch
-Аналитический отчет по товару, для которых была установлена минимальная партия. анное исследование было реализовано в разрезе управленческого учета, базируясь на  показателях: Товарооборот, Валовая Прибыль, АКБ, Количество заказов.
+An analytical report on the product for which the minimum batch was set. This study was implemented in the context of management accounting, based on the following indicators: Turnover, Gross Profit, Active Clients Base , Number of orders.
